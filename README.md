@@ -1,2 +1,2 @@
 # CAPSample
-CAP sample
+CAP sample1
